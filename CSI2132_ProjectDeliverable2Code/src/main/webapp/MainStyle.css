@@ -1,0 +1,265 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #B0E2FF;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #333333;
+    text-align: center;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+nav {
+    background-color: #007bff;
+    padding: 10px 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+li a:hover {
+    background-color: #00BFFF;
+}
+
+.button-container1 {
+    display: flex;
+    justify-content: center;
+}
+
+.button-container2{
+    display: flex;
+    justify-content: center;
+}
+
+.button-container2 form {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.button1 {
+    background-color: #E0F6FF;
+    display: block;
+    margin: 30px;
+    width: 300px;
+    height: 150px;
+    padding: 15px 30px;
+    border: none;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+}
+.button1:hover {
+    background-color: #00BFFF;
+}
+
+p{
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.login-form {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    background-color: #f9f9f9;
+}
+
+.login-form h1 {
+    text-align: center;
+}
+
+.login-form .form-group {
+    margin-bottom: 15px;
+}
+
+.login-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.login-form input[type="text"],
+.login-form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+.login-form button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.login-form button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.signup-button {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.signup-button button[type="submit"] {
+    width: 300px;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.signup-button button[type="submit"]:hover {
+    background-color: #218838;
+}
+
+.box_container {
+   display: flex;
+   justify-content: center;
+   height: 100vh;
+}
+
+#dropdownForm {
+    max-width: 400px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.labelbox {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+}
+
+select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+.submitbutton {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.submitbutton:hover {
+    background-color: #0056b3;
+}
+
+.datecontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+.formstuff {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.room-info li {
+    margin-bottom: 5px;
+}
+
+.room-info li:first-child {
+    font-weight: bold;
+}
+
+.room-info li span {
+    color: #555;
+}
+
+.room-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.room-info {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.book-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.book-button:hover {
+    background-color: #0056b3;
+}
+
+h2{
+    text-align: center;
+}
+.book-room-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 4px auto; 
+    cursor: pointer;
+    border-radius: 10px;
+    text-align: center;
+}

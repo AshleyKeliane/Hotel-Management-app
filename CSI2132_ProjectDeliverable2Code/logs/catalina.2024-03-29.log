@@ -1,0 +1,123 @@
+29-Mar-2024 15:03:51.523 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.19
+29-Mar-2024 15:03:51.525 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 14 2024 19:36:50 UTC
+29-Mar-2024 15:03:51.525 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.19.0
+29-Mar-2024 15:03:51.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+29-Mar-2024 15:03:51.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+29-Mar-2024 15:03:51.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+29-Mar-2024 15:03:51.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Ben\.jdks\corretto-21.0.2
+29-Mar-2024 15:03:51.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS
+29-Mar-2024 15:03:51.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+29-Mar-2024 15:03:51.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ben\Documents\GitHub\HotelDatabaseProject
+29-Mar-2024 15:03:51.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Ben\Downloads\apache-tomcat-10.1.19-windows-x64\apache-tomcat-10.1.19
+29-Mar-2024 15:03:51.530 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Mar-2024 15:03:51.531 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+29-Mar-2024 15:03:51.531 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+29-Mar-2024 15:03:51.531 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Mar-2024 15:03:51.531 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Mar-2024 15:03:51.531 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Ben\Downloads\apache-tomcat-10.1.19-windows-x64\apache-tomcat-10.1.19
+29-Mar-2024 15:03:51.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ben\Documents\GitHub\HotelDatabaseProject
+29-Mar-2024 15:03:51.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ben\Documents\GitHub\HotelDatabaseProject\temp
+29-Mar-2024 15:03:51.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ben\Documents\GitHub\HotelDatabaseProject\conf\logging.properties
+29-Mar-2024 15:03:51.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Mar-2024 15:03:51.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.5\lib\idea_rt.jar=50530:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.5\bin
+29-Mar-2024 15:03:51.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+29-Mar-2024 15:03:51.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+29-Mar-2024 15:03:51.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+29-Mar-2024 15:03:51.767 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+29-Mar-2024 15:03:51.771 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+29-Mar-2024 15:03:51.919 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 15:03:51.927 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [528] milliseconds
+29-Mar-2024 15:03:51.960 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+29-Mar-2024 15:03:51.960 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.19]
+29-Mar-2024 15:03:51.965 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ben\Documents\GitHub\HotelDatabaseProject\conf\Catalina\localhost\WebProject.xml]
+29-Mar-2024 15:03:52.319 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Mar-2024 15:03:52.344 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ben\Documents\GitHub\HotelDatabaseProject\conf\Catalina\localhost\WebProject.xml] has finished in [378] ms
+29-Mar-2024 15:03:52.346 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 15:03:52.357 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [429] milliseconds
+29-Mar-2024 15:45:22.629 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 15:45:22.630 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+29-Mar-2024 15:45:22.632 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebProject] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-Mar-2024 15:45:22.636 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 15:45:22.640 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 15:45:27.970 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.19
+29-Mar-2024 15:45:27.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 14 2024 19:36:50 UTC
+29-Mar-2024 15:45:27.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.19.0
+29-Mar-2024 15:45:27.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+29-Mar-2024 15:45:27.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+29-Mar-2024 15:45:27.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+29-Mar-2024 15:45:27.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Ben\.jdks\corretto-21.0.2
+29-Mar-2024 15:45:27.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS
+29-Mar-2024 15:45:27.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+29-Mar-2024 15:45:27.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ben\Documents\GitHub\HotelDatabaseProject
+29-Mar-2024 15:45:27.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Ben\Downloads\apache-tomcat-10.1.19-windows-x64\apache-tomcat-10.1.19
+29-Mar-2024 15:45:27.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Mar-2024 15:45:27.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+29-Mar-2024 15:45:27.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+29-Mar-2024 15:45:27.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Mar-2024 15:45:27.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Mar-2024 15:45:27.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Ben\Downloads\apache-tomcat-10.1.19-windows-x64\apache-tomcat-10.1.19
+29-Mar-2024 15:45:27.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ben\Documents\GitHub\HotelDatabaseProject
+29-Mar-2024 15:45:27.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ben\Documents\GitHub\HotelDatabaseProject\temp
+29-Mar-2024 15:45:27.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ben\Documents\GitHub\HotelDatabaseProject\conf\logging.properties
+29-Mar-2024 15:45:27.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Mar-2024 15:45:27.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.5\lib\idea_rt.jar=50901:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.5\bin
+29-Mar-2024 15:45:27.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+29-Mar-2024 15:45:27.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+29-Mar-2024 15:45:27.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+29-Mar-2024 15:45:27.978 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+29-Mar-2024 15:45:27.981 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+29-Mar-2024 15:45:28.093 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 15:45:28.100 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [212] milliseconds
+29-Mar-2024 15:45:28.130 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+29-Mar-2024 15:45:28.130 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.19]
+29-Mar-2024 15:45:28.135 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ben\Documents\GitHub\HotelDatabaseProject\conf\Catalina\localhost\WebProject.xml]
+29-Mar-2024 15:45:28.403 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Mar-2024 15:45:28.423 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ben\Documents\GitHub\HotelDatabaseProject\conf\Catalina\localhost\WebProject.xml] has finished in [288] ms
+29-Mar-2024 15:45:28.425 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 15:45:28.436 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [334] milliseconds
+29-Mar-2024 16:12:37.658 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 16:12:37.660 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+29-Mar-2024 16:12:37.662 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebProject] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-Mar-2024 16:12:37.665 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 16:12:37.668 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 21:45:40.917 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.19
+29-Mar-2024 21:45:40.919 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 14 2024 19:36:50 UTC
+29-Mar-2024 21:45:40.919 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.19.0
+29-Mar-2024 21:45:40.919 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+29-Mar-2024 21:45:40.919 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+29-Mar-2024 21:45:40.919 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+29-Mar-2024 21:45:40.919 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\Ben\.jdks\corretto-21.0.2
+29-Mar-2024 21:45:40.919 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.2+13-LTS
+29-Mar-2024 21:45:40.919 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Amazon.com Inc.
+29-Mar-2024 21:45:40.919 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Ben\Documents\GitHub\HotelDatabaseProject
+29-Mar-2024 21:45:40.920 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Ben\Downloads\apache-tomcat-10.1.19-windows-x64\apache-tomcat-10.1.19
+29-Mar-2024 21:45:40.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+29-Mar-2024 21:45:40.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+29-Mar-2024 21:45:40.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+29-Mar-2024 21:45:40.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+29-Mar-2024 21:45:40.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+29-Mar-2024 21:45:40.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Ben\Downloads\apache-tomcat-10.1.19-windows-x64\apache-tomcat-10.1.19
+29-Mar-2024 21:45:40.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Ben\Documents\GitHub\HotelDatabaseProject
+29-Mar-2024 21:45:40.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Ben\Documents\GitHub\HotelDatabaseProject\temp
+29-Mar-2024 21:45:40.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Ben\Documents\GitHub\HotelDatabaseProject\conf\logging.properties
+29-Mar-2024 21:45:40.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Mar-2024 21:45:40.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.5\lib\idea_rt.jar=56142:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.5\bin
+29-Mar-2024 21:45:40.924 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+29-Mar-2024 21:45:40.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+29-Mar-2024 21:45:40.925 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+29-Mar-2024 21:45:41.452 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+29-Mar-2024 21:45:41.459 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+29-Mar-2024 21:45:41.600 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 21:45:41.608 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [815] milliseconds
+29-Mar-2024 21:45:41.637 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+29-Mar-2024 21:45:41.637 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.19]
+29-Mar-2024 21:45:41.643 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Ben\Documents\GitHub\HotelDatabaseProject\conf\Catalina\localhost\WebProject.xml]
+29-Mar-2024 21:45:41.980 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Mar-2024 21:45:42.004 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Ben\Documents\GitHub\HotelDatabaseProject\conf\Catalina\localhost\WebProject.xml] has finished in [362] ms
+29-Mar-2024 21:45:42.006 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 21:45:42.016 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [407] milliseconds
+29-Mar-2024 22:30:16.305 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 22:30:16.306 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+29-Mar-2024 22:30:16.309 WARNING [Thread-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [WebProject] registered the JDBC driver [org.postgresql.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+29-Mar-2024 22:30:16.314 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+29-Mar-2024 22:30:16.317 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
